@@ -244,40 +244,68 @@ At the middle/center position, the EQ is OFF. Cuando la perilla esta en el centr
     
     > Nota: el plato y el borde del jogwheel parecieran ser una sola cosa, pero en realidad el plato es sensible al tacto, intenta reproducir una pista y con Vinyl activado toca el plato, despues ve que pasa si solo mueves tocando el borde.
 
-7. Slip	Turn-ON/OFF the Slip mode.
+7. Activar/Desactivar el modo Slip: El modo permite que las acciones que haces en la pista, como scratches, loops, o cues, se reproduzcan temporalmente mientras la canción sigue avanzando en segundo plano. Cuando desactivas el modo Slip, la canción continúa desde el punto donde estaría si no hubieras realizado ninguna acción, permitiendo que tus efectos sean temporales sin interrumpir el flujo de la música.
 
-Slip enables scratching, looping and hot cueing without breaking the rhythm of the track.
-When SLIP is engaged, the global waveform splits horizontally.
-The upper part of the waveform represents the play-head position, the lower part of the waveform represents the SLIP position (where the playback will resume once the SLIP is done).	
-8. Quantize	Turn-ON/OFF Quantize mode.
-Quantize enables CUE, LOOP, and HOT CUE to be automatically triggered on tempo.	HIDDEN FEATURES :
-Shift + Quantize = Set the Beginning of the Beat Grid on the Play Head position.
+    - Ejercicio:
+          - Activa Vinyl y Slip
+          - Reproduce una cancion
+          - Escrachea por un tiempo (veras que la onda se parte en dos en DJUCED)
+          - La pista seguira rerproduciendoce en segundo plano (es decir, no se escuchara pero los segundos siguen avanzando)
+          - Cuando dejes de escrachear la cancion continuara pero no en el segundo en el que empezaste a escrachear, si no que se tomara la reproduccion que estaba en segundo plano.
 
-Quantize + Jogwheel = shift the position of the Beat Grid backward/forward.
-9. Sync	Turn-ON/OFF Sync mode.
-Synchronizes the current deck to the tempo master.
-In this case, the Tempo cannot be changed.	Defines the Deck as tempo master for syncing.
-10. Tempo Fader	The Tempo fader (also called Pitch Fader) adjusts the tempo (speed) of the loaded track.
-When in the middle position (White LED is ON), the track plays at its original speed.	
-11. Tempo Guides	Tempo guides are part of the Beatmatch Guide System.
-These Red arrows LEDs indicate if you need to decrease or increase the Tempo to match the other deck BPM.
-When the Tempo matches the other deck, the red arrows turn OFF. and the green ‘TEMPO’ led text lights up.	
-12. Beat Align Guides	Beat Align guides are part of the Beatmatch Guide System.
-These Red arrows LEDs indicate if you need to slow-down or speed-up the track you are playing to match the other deck Beat Grid.
-Follow the arrows by moving the outer-ring of the Jogwheel (14).
+8. Activar/Desactivar el modo Quantize: El modo Quantize permite que CUE, LOOP, y HOT CUE se ejecuten en Tempo.
 
-When the Beat match is correct, the red arrows turn OFF. and the green ‘BEAT ALIGN’ LEDs light up.
-13. Jogwheel Platter	When Vinyl mode is ON (default), touching the top platter stops the playback, and resumes when released.
-Turning the wheel when touching the platter makes a scratch.
+    - Caracteristicas escondidas:
+        - Shift + Quantize = Establece el comienzo del Beat Grid en la posición del Play Head.
+        - Quantize + Jogwheel = desplaza la posición del Beat Grid hacia atrás/adelante.
 
-When Vinyl mode is OFF, turning the wheel allows bending.	Browses through the entire song.
-14. Jogwheel Outer Ring	Use the Outer Ring to slow-down or speed-up the track you are playing.	Browses through the entire song.
-15. On Air	This White LED indicates that the Deck is audible into the audio Master (so to the Speakers).	
-16. Pads	The performance pads give you up to 8 different modes.
-Checks the details below.	
+9. Activar/Desactivar el modo Sincronizacion: Sincroniza el deck actual con el tempo master. En este caso, no se puede cambiar el tempo. Define el deck como tempo master para la sincronización.
 
-## Modos del Pad
+10. Tempo Fader	(tambien llamado Pitch Fader): Ajusta el tempo (velocidad) de la pista cargada. Cuando esta en medio la pista esta en su velocidad original.
 
+11. Guias de Tempo Guides: Son parte del sistema de guía Beatmatch. Estos LED de flechas rojas indican si necesitas disminuir o aumentar el tempo para que coincida con el BPM del otro deck. Cuando el tempo coincide con el otro deck, las flechas rojas se apagan y el texto del LED verde "TEMPO" se ilumina.
+
+12. Guias de alineacion de Beat: Las guías de alineación de ritmos forman parte del sistema de guía Beatmatch. Estos LED con flechas rojas indican si necesitas atrazar o adelantar la pista que estás reproduciendo para que coincida con la cuadrícula de ritmos del otro deck. Sigue las flechas moviendo el anillo exterior del Jogwheel (14). Cuando la coincidencia de ritmo es correcta, las flechas rojas se apagan y los LED verdes 'BEAT ALIGN' se encienden.
+
+13. Plato del Jogwheel Platter: Cuando el modo Vinyl está activado (por defecto lo esta), al tocar el plato superior se detiene la reproducción y se reanuda al soltarlo. Al girar la rueda al tocar el plato se produce un scrach. Cuando el modo Vinyl está desactivado, al girar la rueda se puede realizar el bending
+
+14. Anillo exterior del Jogwheel: Utilice el anillo exterior para ralentizar o acelerar la pista que está reproduciendo.
+
+15. Al aire (on air): Este LED blanco indica que el Deck es audible en el audio Master (es decir, en los altavoces).
+
+16. Pads: es un conjunto de 8 botones que permite diferentes modos y funciones.
+
+## Modos 1 del Pad: Hot CUE
+
+El boton HOT CUE establece los pads (los 8 botones de colores) en modo Hot Cue y hace que los Hot Cues se muestren en DJUCED.
+
+El modo Hot Cue hace que el boton HOT CUE se queden encendido (no parpadea).
+
+Teniando activado el modo HOT CUE podemos usar los botones del pad para asignar "hot cues" en la cancion, es decir puntos clave en la cancion. estos puntos claves se reproduciran cuando dejemos apretado cada boton del pad y se dejaran de reproducir cuando los dejemos de presionar.
+
+Para eliminar un hot cue debemos usar la combinacion SHIFT + el pad que deseemos quitar.
+
+### Modo 5: Toneplay
+
+El mismo boton HOT CUE sirve para activar el modo toneplay (que sirve para jugar con los tonos de la cancion)
+
+Para activar el modo Toneplay hay que presionar SHIFT + Boton HOT CUE, sabremos que el modo Toneplay esta activado cuando el boton HOT CUE este parpadeando.
+
+Una vez que tengamos el modo Toneplay activado podemos usar los pads para jugar con los tonos de la cancion.
+
+## Modos 2 del Pad: LOOP ROLL
+## Modos 3 del Pad: SLICER	Set
+## Modos 4 del Pad: SAMPLER
+
+MODO 1 – HOT CUE Establezca los pads en modo Hot Cue y muestre los Hot Cues en la interfaz DJUCED. Establezca los pads en MODO 5: Toneplay (el LED blanco parpadea)
+MODO 2 – LOOP ROLL Establezca los pads en modo Loop Roll y muestre el Loop Roll en la interfaz DJUCED. Establezca los pads en MODO 6: PadFX (el LED blanco parpadea)
+MODO 3 – SLICER Establezca los pads en modo Slicer y muestre el Slicer en la interfaz DJUCED. Establezca los pads en MODO 7: SLICER LOOP (el LED blanco parpadea)
+MODO 4 – SAMPLER Establezca los pads en modo Sampler Establezca los pads en MODO 8: BEAT JUMP (el LED blanco parpadea) y muestre el BEAT JUMP en la interfaz DJUCED.
+
+MODE 1 – HOT CUE	Set Pads to Hot Cue mode and displays the Hot Cues on DJUCED interface.	Set Pads to MODE 5: Toneplay (white led is blinking)
+MODE 2 – LOOP ROLL	Set Pads to Loop Roll mode and displays the Loop Roll on DJUCED interface.	Set Pads to MODE 6: PadFX (white led is blinking)
+MODE 3 – SLICER	Set Pads to Slicer mode and displays the Slicer on DJUCED interface.	Set Pads to MODE 7: SLICER LOOP (white led is blinking)
+MODE 4 – SAMPLER	Set Pads to Sampler mode	Set Pads to MODE 8: BEAT JUMP (white led is blinking) and displays the BEAT JUMP on DJUCED interface.
 
 
 ## Acciones para recordar
