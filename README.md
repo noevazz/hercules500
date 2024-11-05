@@ -255,25 +255,27 @@ At the middle/center position, the EQ is OFF. Cuando la perilla esta en el centr
 
 8. Activar/Desactivar el modo Quantize: El modo Quantize permite que CUE, LOOP, y HOT CUE se ejecuten en Tempo.
 
+    - El control "Quantize" en la mezcladora Hercules Inpulse 500 se usa para mantener las pistas sincronizadas automáticamente con el tiempo y los beats cuando se realizan acciones como loops, hot cues o saltos dentro de una canción. Al activar "Quantize", el software ajusta automáticamente estas acciones para que se alineen perfectamente con el ritmo y las rejillas de beat, evitando que las canciones se desincronicen. Es especialmente útil para asegurarte de que todo se mantenga en tiempo, lo que facilita mezclar sin errores en la sincronización.
+
     - Caracteristicas escondidas:
         - Shift + Quantize = Establece el comienzo del Beat Grid en la posición del Play Head.
         - Quantize + Jogwheel = desplaza la posición del Beat Grid hacia atrás/adelante.
 
-9. Activar/Desactivar el modo Sincronizacion: Sincroniza el deck actual con el tempo master. En este caso, no se puede cambiar el tempo. Define el deck como tempo master para la sincronización.
+10. Activar/Desactivar el modo Sincronizacion: Sincroniza el deck actual con el tempo master. En este caso, no se puede cambiar el tempo. Define el deck como tempo master para la sincronización.
 
-10. Tempo Fader	(tambien llamado Pitch Fader): Ajusta el tempo (velocidad) de la pista cargada. Cuando esta en medio la pista esta en su velocidad original.
+11. Tempo Fader	(tambien llamado Pitch Fader): Ajusta el tempo (velocidad) de la pista cargada. Cuando esta en medio la pista esta en su velocidad original.
 
-11. Guias de Tempo Guides: Son parte del sistema de guía Beatmatch. Estos LED de flechas rojas indican si necesitas disminuir o aumentar el tempo para que coincida con el BPM del otro deck. Cuando el tempo coincide con el otro deck, las flechas rojas se apagan y el texto del LED verde "TEMPO" se ilumina.
+12. Guias de Tempo Guides: Son parte del sistema de guía Beatmatch. Estos LED de flechas rojas indican si necesitas disminuir o aumentar el tempo para que coincida con el BPM del otro deck. Cuando el tempo coincide con el otro deck, las flechas rojas se apagan y el texto del LED verde "TEMPO" se ilumina.
 
-12. Guias de alineacion de Beat: Las guías de alineación de ritmos forman parte del sistema de guía Beatmatch. Estos LED con flechas rojas indican si necesitas atrazar o adelantar la pista que estás reproduciendo para que coincida con la cuadrícula de ritmos del otro deck. Sigue las flechas moviendo el anillo exterior del Jogwheel (14). Cuando la coincidencia de ritmo es correcta, las flechas rojas se apagan y los LED verdes 'BEAT ALIGN' se encienden.
+13. Guias de alineacion de Beat: Las guías de alineación de ritmos forman parte del sistema de guía Beatmatch. Estos LED con flechas rojas indican si necesitas atrazar o adelantar la pista que estás reproduciendo para que coincida con la cuadrícula de ritmos del otro deck. Sigue las flechas moviendo el anillo exterior del Jogwheel (14). Cuando la coincidencia de ritmo es correcta, las flechas rojas se apagan y los LED verdes 'BEAT ALIGN' se encienden.
 
-13. Plato del Jogwheel Platter: Cuando el modo Vinyl está activado (por defecto lo esta), al tocar el plato superior se detiene la reproducción y se reanuda al soltarlo. Al girar la rueda al tocar el plato se produce un scrach. Cuando el modo Vinyl está desactivado, al girar la rueda se puede realizar el bending
+14. Plato del Jogwheel Platter: Cuando el modo Vinyl está activado (por defecto lo esta), al tocar el plato superior se detiene la reproducción y se reanuda al soltarlo. Al girar la rueda al tocar el plato se produce un scrach. Cuando el modo Vinyl está desactivado, al girar la rueda se puede realizar el bending
 
-14. Anillo exterior del Jogwheel: Utilice el anillo exterior para ralentizar o acelerar la pista que está reproduciendo.
+15. Anillo exterior del Jogwheel: Utilice el anillo exterior para ralentizar o acelerar la pista que está reproduciendo.
 
-15. Al aire (on air): Este LED blanco indica que el Deck es audible en el audio Master (es decir, en los altavoces).
+16. Al aire (on air): Este LED blanco indica que el Deck es audible en el audio Master (es decir, en los altavoces).
 
-16. Pads: es un conjunto de 8 botones que permite diferentes modos y funciones.
+17. Pads: es un conjunto de 8 botones que permite diferentes modos y funciones.
 
 ## Modos 1 del Pad: Hot CUE
 
