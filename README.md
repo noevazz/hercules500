@@ -293,20 +293,61 @@ Para activar el modo Toneplay hay que presionar SHIFT + Boton HOT CUE, sabremos 
 
 Una vez que tengamos el modo Toneplay activado podemos usar los pads para jugar con los tonos de la cancion.
 
+Para salir del modo Toneplay regresar al modo HOT CUE basta con presionar el boton HOT CUE.
+
 ## Modos 2 del Pad: LOOP ROLL
-## Modos 3 del Pad: SLICER	Set
+
+El modo LOOP ROLL Establece los pads en modo Loop Roll y muestra el Loop Roll en DJUCED.
+
+Cuando el modo LOO ROLL esta activado cada uno de los 8 PADS realiza un Auto Loop desde 1/16 de Beat (PAD 1) hasta 8 Beats (PAD 8),
+
+Al soltar el PAD la posición de reproducción vuelve a la posición en la que hubiera estado si no se hubiera hecho nada.
+
+### Modo 6 del Pad: PadFX
+
+Presiona el botón Shift + MODE 2 activa el modo PadFX (el LED blanco parpadea).
+
+El modo PadFX te permite controlar los efectos clásicos desde los DJUCED FX Racks:
+
+    - El pad 1, 2 y 3 activan o desactivan el efecto.
+    - El pad 4 muestra/oculta el panel de efectos en DJUCED.
+    - El pad 5, 6 y 7 seleccionan el siguiente efecto.
+
+## Modos 3 del Pad: SLICER
+
+Presione el botón MODE 3 para configurar los pads en modo Slicer. La interfaz DJUCED mostrará los pads SLICER.
+
+El modo Slicer divide un loop activo en 8 Slices y se deslizará a lo largo de la pista.
+
+Mantenga presionado uno de los 8 PADS para ejecutar un slice que se puede activar en tiempo real y le permite saltar entre diferentes secciones de un loop activo.
+
+Una vez que se activa un slice, el loop comenzará dentro del Slice seleccionado mientras el pad esté presionado.
+
+### Modo 7 del Pad: SLICER LOOP
+
+Presiona el botón Shift + MODE 3 para configurar los pads en MODE 7: SLICER LOOP (el LED blanco parpadea)
+
+Slicer Loop es idéntico al modo Slicer, pero Slicer permanece en el Loop y no sigue la pista
+
+
 ## Modos 4 del Pad: SAMPLER
 
-MODO 1 – HOT CUE Establezca los pads en modo Hot Cue y muestre los Hot Cues en la interfaz DJUCED. Establezca los pads en MODO 5: Toneplay (el LED blanco parpadea)
-MODO 2 – LOOP ROLL Establezca los pads en modo Loop Roll y muestre el Loop Roll en la interfaz DJUCED. Establezca los pads en MODO 6: PadFX (el LED blanco parpadea)
-MODO 3 – SLICER Establezca los pads en modo Slicer y muestre el Slicer en la interfaz DJUCED. Establezca los pads en MODO 7: SLICER LOOP (el LED blanco parpadea)
-MODO 4 – SAMPLER Establezca los pads en modo Sampler Establezca los pads en MODO 8: BEAT JUMP (el LED blanco parpadea) y muestre el BEAT JUMP en la interfaz DJUCED.
+Pulsa el botón MODE 4 para configurar los Pads en modo Sampler.
 
-MODE 1 – HOT CUE	Set Pads to Hot Cue mode and displays the Hot Cues on DJUCED interface.	Set Pads to MODE 5: Toneplay (white led is blinking)
-MODE 2 – LOOP ROLL	Set Pads to Loop Roll mode and displays the Loop Roll on DJUCED interface.	Set Pads to MODE 6: PadFX (white led is blinking)
-MODE 3 – SLICER	Set Pads to Slicer mode and displays the Slicer on DJUCED interface.	Set Pads to MODE 7: SLICER LOOP (white led is blinking)
-MODE 4 – SAMPLER	Set Pads to Sampler mode	Set Pads to MODE 8: BEAT JUMP (white led is blinking) and displays the BEAT JUMP on DJUCED interface.
+El sampler es una función potente, siga esta guía para dominarla: [Sampler](./sampler.md)
 
+### Modo 8 del Pad: BEAT JUMP
+
+Presiona el botón Shift + MODE 4 para configurar los pads en MODE 8: Beat Jump (el LED blanco parpadea)
+
+El modo Beat Jump te permite hacer un salto preciso de 1-2-4 u 8 beats en la pista, hacia atrás o hacia adelante, mientras tocas o no.
+
+Es una herramienta útil para retomar una frase o para preparar tus cuadrículas de beats.
+
+- PAD 1-2 Salta 1 pulso hacia atrás/adelante
+- PAD 3-4 Salta 2 pulsos hacia atrás/adelante
+- PAD 5-6 Salta 4 pulsos hacia atrás/adelante
+- PAD 7-8 Salta 8 pulsos hacia atrás/adelante
 
 ## Acciones para recordar
 
@@ -317,7 +358,6 @@ Abrir efectos desde el controlador:
 
 Regresar el head al inicio:
 - Presionar shift + CUE
-
 
 
 https://www.djuced.com/kb/hercules-djcontrol-inpulse-500/
